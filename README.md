@@ -16,10 +16,16 @@ This project explores datasets through data cleaning, preprocessing, and visuali
   - Created “average passenger” profiles and compared them to real passengers.  
   - Visualized variable relationships using **scatter plots** and **pairplots**.
 
+![Example](Chart.png)
+
 ## Text Data Analysis
 - Identified the most common words in positive and negative reviews.  
 - Computed **TF-IDF** vectors for the texts.  
 - Visualized key words for easier interpretation.
+
+![Wordcloud Negative](wordcloud_negative.png)
+
+![Wordcloud Positive](wordcloud_positive.png)
 
 ## Chart Improvements
 - Selected and improved **3 “junk charts”**, making them more informative and visually clear.  
